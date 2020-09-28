@@ -1,0 +1,14 @@
+{
+  "name": "testjson",
+  "version": "1.0.0",
+  "description": "testing C2C",
+  "main": "index.js",
+  "scripts": {
+    "json-server" : "json-server --watch data.json" 
+  },
+  "author": "Satyam Roy",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.16.1"
+  }
+}

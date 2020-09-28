@@ -4,7 +4,7 @@
   "description": "testing C2C",
   "main": "index.js",
   "scripts": {
-    "json-server" : "json-server --watch data.json" 
+    "json-server" : "json-server --watch db.json" 
   },
   "author": "Satyam Roy",
   "license": "ISC",

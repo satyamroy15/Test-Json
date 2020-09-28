@@ -50,34 +50,12 @@
       },
       {
         "ProfileId": "10000000-1000-1000-1000-100000000001",
-        "BankAccountNo": "123456",
-        "IfscCode": "asdf",
-        "AccountName": "babita",
-        "AccountType": null,
-        "IsActivated": false,
-        "Id": "10000000-1000-1000-1000-100000000002",
-        "ResponseStatus": 0,
-        "ErrorMessage": null
-      },
-      {
-        "ProfileId": "10000000-1000-1000-1000-100000000001",
         "BankAccountNo": "123456789",
         "IfscCode": "ABC123456",
         "AccountName": "Test",
         "AccountType": null,
         "IsActivated": true,
         "Id": "f698288d-ae98-487c-a3f3-97b3f4f5a7fd",
-        "ResponseStatus": 0,
-        "ErrorMessage": null
-      },
-      {
-        "ProfileId": "10000000-1000-1000-1000-100000000001",
-        "BankAccountNo": "123456789",
-        "IfscCode": "ABC123456",
-        "AccountName": "Test",
-        "AccountType": null,
-        "IsActivated": true,
-        "Id": "1d22c98b-832c-4e45-b241-eb7db296dca9",
         "ResponseStatus": 0,
         "ErrorMessage": null
       }
@@ -187,36 +165,7 @@
         "ResponseStatus": 0,
         "ErrorMessage": null
       },
-      {
-        "ProfileId": "10000000-1000-1000-1000-100000000001",
-        "CardNumber": "123***113",
-        "CardPicturePath": "/aghhs/athrt/tyuto",
-        "CardPicturePathBack": null,
-        "CardBrand": 10,
-        "Type": 20,
-        "IsActivated": true,
-        "RateSlab": "[{\"FromAmount\":0.0,\"FromTo\":99999.0,\"Charges\":2.2},{\"FromAmount\":100000.0,\"FromTo\":199999.0,\"Charges\":2.1},{\"FromAmount\":200000.0,\"FromTo\":1000000.0,\"Charges\":2.0}]",
-        "RateSlabDetails": [
-          {
-            "FromAmount": 0,
-            "FromTo": 99999,
-            "Charges": 2.2
-          },
-          {
-            "FromAmount": 100000,
-            "FromTo": 199999,
-            "Charges": 2.1
-          },
-          {
-            "FromAmount": 200000,
-            "FromTo": 1000000,
-            "Charges": 2
-          }
-        ],
-        "Id": "bc1b4ef5-c7bc-4355-a697-8fab3d3d2f7d",
-        "ResponseStatus": 0,
-        "ErrorMessage": null
-      },
+
       {
         "ProfileId": "10000000-1000-1000-1000-100000000001",
         "CardNumber": "123***111",
@@ -244,36 +193,6 @@
           }
         ],
         "Id": "ee202224-3e3a-4b78-80de-973d32d769c4",
-        "ResponseStatus": 0,
-        "ErrorMessage": null
-      },
-      {
-        "ProfileId": "10000000-1000-1000-1000-100000000001",
-        "CardNumber": "123***1120",
-        "CardPicturePath": "/aghhs/athrt/tyuto",
-        "CardPicturePathBack": null,
-        "CardBrand": 30,
-        "Type": 10,
-        "IsActivated": true,
-        "RateSlab": "[{\"FromAmount\":0.0,\"FromTo\":99999.0,\"Charges\":2.2},{\"FromAmount\":100000.0,\"FromTo\":199999.0,\"Charges\":2.1},{\"FromAmount\":200000.0,\"FromTo\":1000000.0,\"Charges\":2.0}]",
-        "RateSlabDetails": [
-          {
-            "FromAmount": 0,
-            "FromTo": 99999,
-            "Charges": 2.2
-          },
-          {
-            "FromAmount": 100000,
-            "FromTo": 199999,
-            "Charges": 2.1
-          },
-          {
-            "FromAmount": 200000,
-            "FromTo": 1000000,
-            "Charges": 2
-          }
-        ],
-        "Id": "072ba9e6-dab1-448f-b48b-99022182d824",
         "ResponseStatus": 0,
         "ErrorMessage": null
       },
